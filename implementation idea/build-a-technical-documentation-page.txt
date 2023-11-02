@@ -1,0 +1,328 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title> Technical Documentation on food</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  
+  <body>
+    <main id="main-doc">
+
+       <section class="main-section" id="Your_guide" class="food-content">
+        <header>Your guide</header>
+        <nav id="navbar">
+        <header>Content</header>
+          <ul>
+            <li><a href="#Your_guide" class="nav-link">Your guide</a></li>
+            <li><a href="#What_then_is_food" class="nav-link">What then is food</a></li>
+            <li><a href="#Advantages_and_Disadvantages" class="nav-link">Advantages and Disadvantages</a></li>
+            <li><a href="#classes_of_food" class="nav-link">classes of food</a></li>
+            <li><a href="#Carbohydrates" class="nav-link">Carbohydrates</a></li>
+            <li><a href="#Fat_and_oil" class="nav-link">Fat and oil</a></li>
+            <li><a href="#Protein" class="nav-link">Protein</a></li>
+            <li><a href="#Vitamins" class="nav-link">Vitamins</a></li>
+            <li><a href="#Mineral" class="nav-link">Mineral</a></li>
+            <li><a href="#Water" class="nav-link">Water</a></li>
+            <li><a href="#Contact" class="nav-link">contact</a></li>
+          </ul>
+        </nav>
+      </section>
+
+      <main>
+          <section id="What_then_is_food" class="main-section">
+            <header>What then is food</header>
+            <p>any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.</p>
+            <p>Food is any substance that is consumed to provide nutritional support for the body. It is usually of plant or animal origin and contains essential nutrients such as carbohydrates, proteins, fats, vitamins, and minerals.</p>
+
+            <h2>Why do we eat</h2>
+            <p>Food provides the energy that our bodies need to keep going. Without food, a person would typically survive for a few weeks. Without water, they could only live for a few days.</p>
+            <p>We eat to provide our bodies with the necessary nutrients and energy to function properly.</p>
+          </section>
+
+          <section id="Advantages_and_Disadvantages" class="main-section">
+            <header>Advantages and Disadvantages</header>
+            
+            <code>Advantage</code>
+            <ul>
+              <li>May help you live longer</li>
+              <li>Keeps skin, teeth, and eyes healthy.</li>
+              <li>Boosts immunity.</li>
+              <li>Strengthens bones.</li>
+              <li>Supports healthy pregnancies and breastfeeding.</li>
+            </ul>
+            <code>Disadvantage</code>
+            <ul>
+              <li>Adulterated Food. Adulterated food is very harmful to the body. </li>
+              <li>Inorganic Food. Food produced today is with the use of chemicals.</li>
+              <li>Food Security. Food security is an emerging challenge.</li>
+              <li>Costly.</li>
+              <li>Diseases.</li>
+            </ul>
+        </section>
+
+        <section id="classes_of_food" class="main-section">
+    <header>classes of food</header>
+    <code>There are six classes of food namely:</code>
+    <ul>
+      <li>Carbohydrates.</li>
+      <li>Fat and oil.</li>
+      <li>Protein.</li>
+      <li>Vitamins.</li>
+      <li>Mineral.</li>
+      <li>Water.</li>
+    </ul>
+  </section>
+
+  <section id="Carbohydrates" class="main-section">
+    <header>Carbohydrates</header>
+    <p>What are carbohydrates?</p>
+    <p> Carbohydrates, or carbs, are sugar molecules. Along with proteins and fats, carbohydrates are one of three main nutrients found in foods and drinks. Your body breaks down carbohydrates into glucose. Glucose, or blood sugar, is the main source of energy for your body's cells, tissues, and organs.</p>
+    <code>Examples are:</code>
+    <ul>
+      <li>Breads</li>
+      <li>wheat</li>
+      <li>Rice</li>
+      <li>corn</li>
+    </ul>
+  </section>
+  <section id="Fat_and_oil" class="main-section">
+    <header>Fat and oil</header>
+    <p>What is Fat and oil.</p>
+    <p>Some people think that fats and oils are different things. But in reality, they share a common chemical structure and similar properties. The difference is that those that stay solid at room temperatures are called fats while those that stay liquid at room temperatures are called oils</p>
+    <p>what then is now Fat?</p>
+    <p> Fats are composed of high amounts of saturated fatty acids, which at room temperature can take a solid form.</p>
+    <p>what then is now oil?</p>
+    <p>On the other hand, Oils are composed of unsaturated acids, which at room temperature can take a liquid form.</p>
+    <code>Examples of both are:</code>
+    <ul>
+      <li>goose fat</li>
+      <li>Butter</li>
+      <li>palm oil</li>
+      <li>coconut oil </li>
+    </ul>
+  </section>
+  <section id="Protein" class="main-section">
+    <header>Protein</header>
+    <p>What is Protein</p>
+    <p>Proteins are made up of building blocks called amino acids. There are about 20 different amino acids that link together in different combinations. Your body uses them to make new proteins, such as muscle and bone, and other compounds such as enzymes and hormones. It can also use them as an energy source.</p>
+    <p>Protein is a macronutrient that is essential for the growth and repair of tissues in the body. It is made up of amino acids and can be found in a variety of foods </p>
+    <code>Examples are:</code>
+    <ul>
+      <li>meat</li>
+      <li>fish</li>
+      <li>eggs</li>
+      <li>diary(milk)</li>
+    </ul>
+  </section>
+  <section id="Vitamins" class="main-section">
+    <header>Vitamins</header>
+    <p>What are Vitamins</p>
+    <p>Vitamins and minerals are micronutrients required by the body to carry out a range of normal functions. However, these micronutrients are not produced in our bodies and must be derived from the food we eat. Vitamins are organic substances that are generally classified as either fat soluble or water soluble.</p>
+    <code>Examples are:</code>
+    <ul>
+      <li>iron — meat, poultry, fish, and beans.
+  </li>
+      <li>vitamin A — carrots, sweet potatoes, spinach, kale.</li>
+      <li>vitamin B12 — meat, poultry, fish.</li>
+      <li>vitamin E — nuts, seeds, vegetable oils.</li>
+    </ul>
+  </section>
+  <section id="Mineral" class="main-section">
+    <header>Mineral</header>
+    <p>What are Mineral</p>
+    <p>A mineral nutrient refers to certain chemical elements found in food that play important roles in the proper functioning of the human body</p>
+    <code>Examples are:</code>
+    <ul>
+      <li>calcium</li>
+      <li>phosphorus</li>
+      <li>potassium</li>
+      <li>sodium</li>
+    </ul>
+  </section>
+  <section id="Water" class="main-section">
+    <header>Water</header>
+    <p>What is water</p>
+    <p>water, a substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful and essential of compounds. A tasteless and odourless liquid at room temperature, it has the important ability to dissolve many other substances.</p>
+    <code>Examples are:</code>
+    <ul>
+      <li>Tap Water</li>
+      <li>Mineral Water</li>
+      <li>Spring Water</li>
+      <li>Well-water</li>
+    </ul>
+  </section>
+
+        <section class="main-section" id="Contact">
+          <header id="Contact">Contact</header>
+          <footer>
+            <code>
+              <p>This was built by:</p>
+            </code>
+            <code>
+              <ul>
+                <li> Name:
+                  Abdul Ojotule Suleiman
+                </li>
+                <li>
+                  <header id="email">Email:</header>
+                  <a href="mailto:Abdulojotulesuleiman@gmail.com">Abdulojotulesuleiman@gmail.com</a>
+                </li>
+                <li>Phone No.:
+                  08036314553
+                </li>
+                <li>github profile:
+                  <a href="https://github.com/Micho001" target="_blank">https://github.com/Micho001</a>
+                </li>
+              </ul>
+            </code>
+          </footer>
+        </section>
+      </main>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+#main-doc{
+display: flex;
+position: relative;
+}
+
+#navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#Your_guide > header{
+  display: none;
+}
+
+header{
+  margin: 5px 0 0 5px;
+  padding: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#Your_guide{
+  flex-wrap: no-wrap;
+  min-width: 200px;
+  width: 500px;
+  margin-right: 30px;
+  padding-right: 35px;
+  padding-left: 15px;
+  border-right: 3px solid #0a0a5a;
+}
+
+nav li a{
+  color: #0a0a5a;
+}
+
+nav li a:hover{
+  text-decoration: underline;
+  color: red;
+  font-size: 20px
+}
+
+#email{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+@media (max-width: 1070px) and (min-width: 1016px){
+  #main-doc{
+    margin: 5px;
+    padding: 3px;
+  }
+
+#Your_guide > header{
+  display: none;
+}
+  #Your_guide{
+    border: none;
+    float: left;
+    margin-right: 22px;
+    padding-right: 50px;
+  }
+}
+
+
+@media (max-width: 1015px) and (min-width: 690px){
+    #main-doc{
+    margin: 5px;
+    padding: 3px;
+  }
+
+  #Your_guide{
+    min-width: 300px;
+    width: 500px;
+    border: none;
+    margin-right: 2px;
+  }
+
+  #navbar ul{
+    flex-wrap: wrap;
+    padding-right: 5px;
+  }
+
+  #navbar ul li{
+    margin: 5px;
+    border: 1px solid #aaa;
+    padding: 4px;
+    background: #aaa;
+  }
+
+   #navbar ul li a:hover{
+     font-size: 16px;
+   }
+}
+
+
+@media (max-width: 689px){
+    #main-doc{
+    margin: 5px;
+    padding: 3px;
+  }
+
+#Your_guide{
+  border: none;
+  margin-right: 49px;
+}
+
+  #navbar ul{
+    display: inline-block;
+    padding-right: 5px;
+  }
+
+  #navbar ul li{
+    margin: 5px;
+    border: 1px solid #aaa;
+    padding: 4px;
+  }
+
+   #navbar ul li a:hover{
+     font-size: 16px;
+   }
+}
+
+** end of undefined **
+

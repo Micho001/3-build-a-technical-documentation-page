@@ -1,0 +1,20 @@
+technical-documentation-page
+classes of food.
+what's food-------------done
+
+the code sections should contain some kind of heading outlok------done
+
+why do we eat-----done
+what are the advantages and disadvantages of food------done
+
+what are the classes of food
+
+classes of food and their examples / definitions
+
+There are six classes of food namely:
+Carbohydrates.
+Fat and oil.
+Protein.
+Vitamins.
+Mineral.
+Water.
